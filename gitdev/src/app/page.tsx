@@ -31,7 +31,7 @@ export default async function Home(): Promise<React.JSX.Element> {
       </nav>
 
 
-      <div style={{ height: '64px' }} /> {/* Spacer for fixed navbar */}
+      <div style={{ height: '64px' }} />
       <div
         className="flex min-h-screen flex-col items-center justify-between p-24"
         style={{
